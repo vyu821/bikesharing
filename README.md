@@ -30,7 +30,7 @@ Bikes are used mostly by males. Also the most popular times are during commute h
 
 ![trips_per_weekday_per_hour](images/trips_weekday_hour.png)
 
-Here, we can see the same thing as the previous graph. Bikes are mostly used during commute hours on the weekdays and during the afternoon on weekends.
+Here, we can see the same thing as the previous heatmap. Bikes are mostly used during commute hours on the weekdays and during the afternoon on weekends.
 
 ![checkout_times_graph](images/checkout_times.png)
 
