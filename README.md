@@ -14,4 +14,4 @@ You are to create a set of visualizations that show:
 
 
 
-[link to story]('https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link')
+[link to story](https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
