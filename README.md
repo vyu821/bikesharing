@@ -10,7 +10,7 @@ You are to create a set of visualizations that show:
 - data.csv (edited datetime from 201908-citibike-tripdata.csv)
 - Software: Tableau Public 2020.3, Jupyter Notebook 6.0.3, Python 3.7.7, Visual Studio Code 1.47.2
 
-## Challenge Summary
+## Challenge Results
 [Here is the link to the story](https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
 
 
@@ -39,3 +39,6 @@ Bikes are mostly checked out during the early hours, between 4 a.m. and 7 a.m.
 ![checkout_times_gender_graph](images/checkout_times_gender.png)
 
 The same information is shown from the previous graph but this graph also shows that males use bikes more than females.
+
+## Challenge Summary
+From these visualizations, we can see that many bike users are already subscribers and many of the users are male. The most frequent time bikes are used on the weekdays are during commute hours, 8 a.m. and between 5-6 p.m. On the weekends, bikes are mostly used during mid-morning and throughout the afternoon. Two additional visualizations that I would perform would be the top starting and ending locations. This would help determine where to service bikes after they are done being used and where to best allocate the bikes for higher usage.
