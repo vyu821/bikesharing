@@ -14,6 +14,11 @@ You are to create a set of visualizations that show:
 [Here is the link to the story](https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
 
 
+Customer Breakdown | Gender Breakdown
+:-----------------:|:----------------:
+![customer](images/customer_breakdown.png) | ![gender](images/gender_breakdown.png)
+
+We can see most of our customers are subcribers and males.
+
 ![trips_by_gender_per_weekday](images/trips_gender_weekday.png)
 
-We can see that our users comprise mostly of males and subscribers.
