@@ -11,7 +11,9 @@ You are to create a set of visualizations that show:
 - Software: Tableau Public 2020.3, Jupyter Notebook 6.0.3, Python 3.7.7, Visual Studio Code 1.47.2
 
 ## Challenge Summary
+[Here is the link to the story](https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
 
 
+![trips_by_gender_per_weekday](images/trips_gender_weekday.png)
 
-[link to story](https://public.tableau.com/views/BikeTripsAnalysisChallenge/BikeTripsAnalysis?:language=en&:retry=yes&:display_count=y&:origin=viz_share_link)
+We can see that our users comprise mostly of males and subscribers.
