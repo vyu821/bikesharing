@@ -22,3 +22,4 @@ We can see most of our customers are subcribers and males.
 
 ![trips_by_gender_per_weekday](images/trips_gender_weekday.png)
 
+Bikes are used throughout the week with the most frequent being Thursday and Friday.
